@@ -1,3 +1,4 @@
 Starting The Odin Project...let's see how this goes!
 
 8/2 : Checking to see if it requires a password every time I push updates.
+8/2 : Chekcing again...
